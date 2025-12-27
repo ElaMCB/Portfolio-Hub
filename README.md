@@ -133,17 +133,17 @@ graph LR
 **1. Zero-Maintenance Testing**
 - **Goal**: 80% reduction in test maintenance effort
 - **Approach**: AI-driven selector adaptation and self-healing tests
-- **Timeline**: Q1 2025
+- **Timeline**: Q1 2026
 
 **2. Ethical AI Validation**
 - **Goal**: Automated bias detection in AI applications
 - **Approach**: Expand AI-Ethica framework with production monitoring
-- **Timeline**: Q2 2025
+- **Timeline**: Q2 2026
 
 **3. Predictive Defect Prevention**
 - **Goal**: 85% accuracy in predicting failure hotspots
 - **Approach**: ML models analyzing code patterns and user behavior
-- **Timeline**: Q3 2025
+- **Timeline**: Q3 2026
 
 ### Impact Metrics
 
