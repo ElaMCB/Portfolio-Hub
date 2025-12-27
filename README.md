@@ -4,6 +4,11 @@
 [![MCP Servers](https://img.shields.io/badge/MCP-Servers-green)](https://github.com/ElaMCB/-mcp-testing-servers)
 [![Playwright](https://img.shields.io/badge/Testing-Playwright-orange)](https://github.com/ElaMCB/playwright-inventory-tests)
 [![AI Projects](https://img.shields.io/badge/AI-Projects-purple)](https://github.com/ElaMCB?tab=repositories)
+[![AI Research](https://img.shields.io/badge/AI-Research-red)](https://elamcb.github.io/research)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](https://github.com/ElaMCB/LILIA)
+[![Ethical AI](https://img.shields.io/badge/Ethical-AI-yellow)](https://github.com/ElaMCB/AI-Ethica)
 
 > **QA Lead specializing in AI-Powered Test Automation**  
 > Transforming software quality through intelligent automation and cutting-edge AI
