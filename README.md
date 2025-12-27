@@ -108,13 +108,13 @@ graph LR
 
 ## Project Status
 
-| Project | Status | Last Updated | Language | Stars |
-|---------|--------|--------------|----------|-------|
-| MCP Testing Servers | Active | Oct 2025 | TypeScript | 2 |
-| LILIA | Active | Last week | TypeScript | - |
-| AI-Ethica | Active | 2 days ago | Python | - |
-| Neuro | Maintained | Nov 2025 | Python | 2 |
-| HouseBots | Maintained | Aug 2025 | Python | 1 |
+| Project                 | Status        | Last Updated | Language   | Stars | Focus Area      |
+| ----------------------- | ------------- | ------------ | ---------- | ----- | --------------- |
+| **MCP Testing Servers** | 🟢 Active     | Oct 2025     | TypeScript | 2     | Agentic Testing |
+| **LILIA**               | 🟢 Active     | Last week    | TypeScript | -     | AI IDE Tools    |
+| **AI-Ethica**           | 🟢 Active     | 2 days ago   | Python     | -     | Ethical AI      |
+| **Neuro**               | 🟡 Maintained | Nov 2025     | Python     | 2     | AI Language     |
+| **HouseBots**           | 🟡 Maintained | Aug 2025     | Python     | 1     | Home Automation |
 
 ## Getting Started
 
