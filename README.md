@@ -31,12 +31,12 @@ graph TD
     PA --> PA1[Ela-s-HouseBots<br/>Domestic automation - Chef Bot, Cleaner Bot]
     PA --> PA2[virtual-recruiter-reply-bot_ARIA<br/>AI recruiter response automation]
     
-    PC --> PC1[Testing & QA<br/>5 repos | Playwright, TypeScript, MCP]
-    PC --> PC2[AI/ML Frameworks<br/>8 repos | Python, TensorFlow, PyTorch]
-    PC --> PC3[Development Tools<br/>4 repos | VS Code, Language Design]
-    PC --> PC4[Enterprise AI<br/>3 repos | RAG, Automation]
-    PC --> PC5[Personal Projects<br/>6 repos | Home automation, Games]
-    PC --> PC6[Research<br/>3 repos | Papers, POCs]
+    PC --> PC1[Testing & QA<br/>5 repos: Playwright, TypeScript, MCP]
+    PC --> PC2[AI/ML Frameworks<br/>8 repos: Python, TensorFlow, PyTorch]
+    PC --> PC3[Development Tools<br/>4 repos: VS Code, Language Design]
+    PC --> PC4[Enterprise AI<br/>3 repos: RAG, Automation]
+    PC --> PC5[Personal Projects<br/>6 repos: Home automation, Games]
+    PC --> PC6[Research<br/>3 repos: Papers, POCs]
     
     CT --> CT1[Testing<br/>Playwright, Selenium, Cypress, MCP]
     CT --> CT2[AI/ML<br/>Python, TensorFlow, PyTorch, Ollama]
