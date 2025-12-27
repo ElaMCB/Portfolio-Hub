@@ -98,12 +98,6 @@ Tools: VS Code, GitHub Actions, Docker
 ![Zero Maintenance](https://img.shields.io/badge/Zero-Maintenance-4361EE?style=for-the-badge&logo=maintenance)
 ![Autonomous Tests](https://img.shields.io/badge/Autonomous-Tests-4895EF?style=for-the-badge&logo=auto-awesome)
 
-### Quality Assurance
-
-![Test Coverage](https://img.shields.io/badge/Test%20Coverage-95%25-10AC84?style=for-the-badge&logo=test-tube)
-![Quality Gates](https://img.shields.io/badge/Quality-Gates-A+--brightgreen?style=for-the-badge&logo=gate)
-![Performance](https://img.shields.io/badge/Performance-97%25-F39C12?style=for-the-badge&logo=speed)
-![Security](https://img.shields.io/badge/Security-A%2B-E74C3C?style=for-the-badge&logo=security)
 
 ## Architecture Highlights
 
@@ -239,5 +233,11 @@ Interested in contributing? Check out our [Contributing Guide](CONTRIBUTING.md) 
 - **Mission**: Transforming software quality through intelligent automation
 
 ---
+
+## Quality Assurance & Community
+
+![Test Coverage](https://img.shields.io/badge/Test%20Coverage-95%25-10AC84?style=for-the-badge&logo=test-tube)
+![Quality Gates](https://img.shields.io/badge/Quality-Gates-A+--brightgreen?style=for-the-badge&logo=gate)
+![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=globe)
 
 **Explore** | **Collaborate** | **Innovate**
