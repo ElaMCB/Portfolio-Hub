@@ -84,6 +84,12 @@ Languages: TypeScript, Python, JavaScript, Neuro
 Tools: VS Code, GitHub Actions, Docker
 ```
 
+### Innovation Badges
+
+![Neuro Language](https://img.shields.io/badge/Neuro-Language-FF006E?style=for-the-badge)
+![MCP Protocol](https://img.shields.io/badge/MCP-Protocol-2E86AB?style=for-the-badge)
+![Agentic Testing](https://img.shields.io/badge/Agentic-Testing-7209B7?style=for-the-badge)
+
 ## Architecture Highlights
 
 ### MCP Testing Ecosystem
