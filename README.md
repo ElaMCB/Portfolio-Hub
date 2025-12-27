@@ -13,54 +13,35 @@ Welcome to my portfolio hub! This meta-repository showcases all my projects, fro
 ## AI-Testing Universe Overview
 
 ```mermaid
-mindmap
-  root((ElaMCB's<br/>AI-Testing<br/>Universe))
-    Featured Projects
-      MCP Testing Infrastructure
-        -mcp-testing-servers
-          Agentic testing servers for MCP-native IDEs
-          Architecture: Bridge AI agents with testing tools using Model Context Protocol
-          Impact: Enables autonomous test creation, execution, and maintenance
-      AI Development Tools
-        LILIA
-          VS Code extension with Agent Army
-        Neuro
-          Intent-driven programming language for AI
-        AI-Ethica
-          Ethical AI evaluation framework
-      Practical AI Applications
-        Ela-s-HouseBots
-          Domestic automation (Chef Bot, Cleaner Bot)
-        virtual-recruiter-reply-bot_ARIA
-          AI recruiter response automation
-    Project Categories
-      Testing & QA
-        5 repos
-        Playwright, TypeScript, MCP
-      AI/ML Frameworks
-        8 repos
-        Python, TensorFlow, PyTorch
-      Development Tools
-        4 repos
-        VS Code, Language Design
-      Enterprise AI
-        3 repos
-        RAG, Automation
-      Personal Projects
-        6 repos
-        Home automation, Games
-      Research
-        3 repos
-        Papers, POCs
-    Core Technologies
-      Testing
-        Playwright, Selenium, Cypress, MCP
-      AI/ML
-        Python, TensorFlow, PyTorch, Ollama
-      Languages
-        TypeScript, Python, JavaScript, Neuro
-      Tools
-        VS Code, GitHub Actions, Docker
+graph TD
+    Root[ElaMCB's AI-Testing Universe] --> FP[Featured Projects]
+    Root --> PC[Project Categories]
+    Root --> CT[Core Technologies]
+    
+    FP --> MCP[MCP Testing Infrastructure]
+    FP --> AI[AI Development Tools]
+    FP --> PA[Practical AI Applications]
+    
+    MCP --> MCP1[-mcp-testing-servers<br/>Agentic testing servers for MCP-native IDEs<br/>Architecture: Bridge AI agents with testing tools<br/>Impact: Autonomous test creation & execution]
+    
+    AI --> AI1[LILIA<br/>VS Code extension with Agent Army]
+    AI --> AI2[Neuro<br/>Intent-driven programming language for AI]
+    AI --> AI3[AI-Ethica<br/>Ethical AI evaluation framework]
+    
+    PA --> PA1[Ela-s-HouseBots<br/>Domestic automation - Chef Bot, Cleaner Bot]
+    PA --> PA2[virtual-recruiter-reply-bot_ARIA<br/>AI recruiter response automation]
+    
+    PC --> PC1[Testing & QA<br/>5 repos | Playwright, TypeScript, MCP]
+    PC --> PC2[AI/ML Frameworks<br/>8 repos | Python, TensorFlow, PyTorch]
+    PC --> PC3[Development Tools<br/>4 repos | VS Code, Language Design]
+    PC --> PC4[Enterprise AI<br/>3 repos | RAG, Automation]
+    PC --> PC5[Personal Projects<br/>6 repos | Home automation, Games]
+    PC --> PC6[Research<br/>3 repos | Papers, POCs]
+    
+    CT --> CT1[Testing<br/>Playwright, Selenium, Cypress, MCP]
+    CT --> CT2[AI/ML<br/>Python, TensorFlow, PyTorch, Ollama]
+    CT --> CT3[Languages<br/>TypeScript, Python, JavaScript, Neuro]
+    CT --> CT4[Tools<br/>VS Code, GitHub Actions, Docker]
 ```
 
 ## Featured Projects
