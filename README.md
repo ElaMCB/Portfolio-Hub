@@ -157,6 +157,4 @@ Interested in contributing? Check out our [Contributing Guide](CONTRIBUTING.md) 
 
 ---
 
-**Star this repo if you find any of my projects useful!**
-
 **Explore** | **Collaborate** | **Innovate**
