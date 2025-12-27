@@ -149,6 +149,12 @@ graph LR
 - **Approach**: ML models analyzing code patterns and user behavior
 - **Timeline**: Q3 2026
 
+### Research Methodology
+
+![GitHub Native Research](https://img.shields.io/badge/GitHub%20Native-Research-BCA3F8?style=for-the-badge&logo=github)
+![Research Velocity](https://img.shields.io/badge/Research%20Velocity-15%2B%2Fquarter-FF9F43?style=for-the-badge&logo=speed)
+![Reproducibility](https://img.shields.io/badge/Reproducibility-98%25-10AC84?style=for-the-badge&logo=repeat)
+
 ### Impact Metrics
 
 ```text
