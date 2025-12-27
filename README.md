@@ -60,6 +60,11 @@ graph TD
 - **[Ela-s-HouseBots](https://github.com/ElaMCB/Ela-s-HouseBots)** - Domestic automation (Chef Bot, Cleaner Bot)
 - **[virtual-recruiter-reply-bot_ARIA](https://github.com/ElaMCB/virtual-recruiter-reply-bot_ARIA)** - AI recruiter response automation
 
+## Innovation Technologies
+
+![MCP Protocol](https://img.shields.io/badge/MCP-Protocol-2E86AB?style=for-the-badge)
+![Agentic Testing](https://img.shields.io/badge/Agentic-Testing-7209B7?style=for-the-badge&logo=robot)
+
 ## Project Categories
 
 | Category | Projects | Technologies |
@@ -79,11 +84,6 @@ AI/ML: Python, TensorFlow, PyTorch, Ollama
 Languages: TypeScript, Python, JavaScript, Neuro
 Tools: VS Code, GitHub Actions, Docker
 ```
-
-## Innovation Technologies
-
-![MCP Protocol](https://img.shields.io/badge/MCP-Protocol-2E86AB?style=for-the-badge)
-![Agentic Testing](https://img.shields.io/badge/Agentic-Testing-7209B7?style=for-the-badge&logo=robot)
 
 ## Advanced Testing Capabilities
 
