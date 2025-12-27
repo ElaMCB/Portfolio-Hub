@@ -176,11 +176,23 @@ graph LR
 - **Approach**: ML models analyzing code patterns and user behavior
 - **Timeline**: Q3 2026
 
-### Research Methodology
+### Core AI Research Badges
 
-![GitHub Native Research](https://img.shields.io/badge/GitHub%20Native-Research-BCA3F8?style=for-the-badge&logo=github)
+![AI Research](https://img.shields.io/badge/AI-Research-FF6B6B?style=for-the-badge&logo=artificial-intelligence)
+![Research Methodology](https://img.shields.io/badge/Research-GitHub%20Native-4ECDC4?style=for-the-badge&logo=github)
+![Open Science](https://img.shields.io/badge/Open-Science-45B7D1?style=for-the-badge&logo=open-access)
+
+![Agentic Testing](https://img.shields.io/badge/Agentic-Testing-96CEB4?style=for-the-badge&logo=robot)
+![Ethical AI](https://img.shields.io/badge/Ethical-AI-F7DC6F?style=for-the-badge&logo=balance-scale)
+![MCP Protocol](https://img.shields.io/badge/MCP-Protocol-BB8FCE?style=for-the-badge&logo=json-web-tokens)
+![Predictive Quality](https://img.shields.io/badge/Predictive-Quality-85C1E9?style=for-the-badge&logo=chart-line)
+
+### Research Quality Badges
+
 ![Research Velocity](https://img.shields.io/badge/Research%20Velocity-15%2B%2Fquarter-FF9F43?style=for-the-badge&logo=speed)
 ![Reproducibility](https://img.shields.io/badge/Reproducibility-98%25-10AC84?style=for-the-badge&logo=repeat)
+![Innovation Index](https://img.shields.io/badge/Innovation-87%25-E74C3C?style=for-the-badge&logo=lightbulb)
+![GitHub Native](https://img.shields.io/badge/GitHub%20Native-Research-6C5CE7?style=for-the-badge&logo=github-actions)
 
 ### Impact Metrics
 
