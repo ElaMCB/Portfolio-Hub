@@ -86,7 +86,7 @@ Tools: VS Code, GitHub Actions, Docker
 
 ### Innovation Badges
 
-![Neuro Language](https://img.shields.io/badge/Neuro-Language-FF006E?style=for-the-badge)
+![Neuro Language](https://img.shields.io/badge/Neuro-Language-FF006E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMCIgY3k9IjEwIiByPSI4IiBmaWxsPSIjRkYwMDZFIi8+PHBhdGggZD0iTTEwIDZDOCA2IDYgOCA2IDEwQzYgMTIgOCAxNCAxMCAxNEMxMiAxNCAxNCAxMiAxNCAxMEMxNCA4IDEyIDYgMTAgNloiIGZpbGw9IndoaXRlIi8+PGNpcmNsZSBjeD0iOCIgY3k9IjkiIHI9IjEiIGZpbGw9IiNGRjAwNkUiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjkiIHI9IjEiIGZpbGw9IiNGRjAwNkUiLz48cGF0aCBkPSJNOCAxMkM4IDEyIDkgMTMgMTAgMTNDMTEgMTMgMTIgMTIgMTIgMTIiIHN0cm9rZT0iI0ZGMDA2RSIgc3Ryb2tlLXdpZHRoPSIxIi8+PC9zdmc+)
 ![MCP Protocol](https://img.shields.io/badge/MCP-Protocol-2E86AB?style=for-the-badge)
 ![Agentic Testing](https://img.shields.io/badge/Agentic-Testing-7209B7?style=for-the-badge)
 
