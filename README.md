@@ -10,6 +10,37 @@
 
 Welcome to my portfolio hub! This meta-repository showcases all my projects, from AI-powered testing infrastructure to practical automation solutions.
 
+## AI-Testing Universe Overview
+
+```mermaid
+mindmap
+  root((ElaMCB's<br/>AI-Testing<br/>Universe))
+    Featured Projects
+      MCP Testing Infrastructure
+        -mcp-testing-servers
+          Architecture: Bridge AI agents with testing tools using Model Context Protocol
+          Impact: Enables autonomous test creation, execution, and maintenance
+      AI Development Tools
+        LILIA: VS Code extension with Agent Army
+        Neuro: Intent-driven programming language for AI
+        AI-Ethica: Ethical AI evaluation framework
+      Practical AI Applications
+        Ela-s-HouseBots: Domestic automation (Chef Bot, Cleaner Bot)
+        virtual-recruiter-reply-bot_ARIA: AI recruiter response automation
+    Project Categories
+      Testing & QA: 5 repos | Playwright, TypeScript, MCP
+      AI/ML Frameworks: 8 repos | Python, TensorFlow, PyTorch
+      Development Tools: 4 repos | VS Code, Language Design
+      Enterprise AI: 3 repos | RAG, Automation
+      Personal Projects: 6 repos | Home automation, Games
+      Research: 3 repos | Papers, POCs
+    Core Technologies
+      Testing: Playwright, Selenium, Cypress, MCP
+      AI/ML: Python, TensorFlow, PyTorch, Ollama
+      Languages: TypeScript, Python, JavaScript, Neuro
+      Tools: VS Code, GitHub Actions, Docker
+```
+
 ## Featured Projects
 
 ### MCP Testing Infrastructure
