@@ -188,13 +188,13 @@ Our GitHub-native research methodology pioneers new approaches to AI-powered tes
 
 ## Project Status
 
-| Project                 | Status        | Last Updated | Language   | Stars | Focus Area      |
-| ----------------------- | ------------- | ------------ | ---------- | ----- | --------------- |
-| **MCP Testing Servers** | 🟢 Active     | Oct 2025     | TypeScript | 2     | Agentic Testing |
-| **LILIA**               | 🟢 Active     | Last week    | TypeScript | -     | AI IDE Tools    |
-| **AI-Ethica**           | 🟢 Active     | 2 days ago   | Python     | -     | Ethical AI      |
-| **Neuro**               | 🟡 Maintained | Nov 2025     | Python     | 2     | AI Language     |
-| **HouseBots**           | 🟡 Maintained | Aug 2025     | Python     | 1     | Home Automation |
+| Project                 | Status        | Last Updated | Language   | Focus Area      |
+| ----------------------- | ------------- | ------------ | ---------- | --------------- |
+| **MCP Testing Servers** | 🟢 Active     | Oct 2025     | TypeScript | Agentic Testing |
+| **LILIA**               | 🟢 Active     | Last week    | TypeScript | AI IDE Tools    |
+| **AI-Ethica**           | 🟢 Active     | 2 days ago   | Python     | Ethical AI      |
+| **Neuro**               | 🟡 Maintained | Nov 2025     | Python     | AI Language     |
+| **HouseBots**           | 🟡 Maintained | Aug 2025     | Python     | Home Automation |
 
 ## Getting Started
 
